@@ -1,0 +1,5 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 3.5)
+
+PROJECT(hello C)
+
+ADD_EXECUTABLE(hello.exe hello.c)
